@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40409#Os-Maiasepisodios-da-vida-romantica
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2012-08-04'
 gutenberg_type: Text
